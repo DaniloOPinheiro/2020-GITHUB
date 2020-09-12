@@ -4,16 +4,14 @@
 ### O QUE É FORK E PARA QUE SER ?
 
 Fork
-```
+
 Explicando com minhas palavras, seria como se fosse uma curva que você faz e pega os arquivos para edita-lós e depois subir no repositório.No Github quando você clica em fork no repositório de alguém, ele pega o repositório completo dessa pessoa e copia para sua conta git, lá você poderá editar esses arquivos e depois devolver a essa pessoa com as suas edições,se a pessoa aceitar, suas alterações também entram no repositório dele.
-```
 
 ### O QUE É REPOSITÓRIO E PARA QUE SER ?
 
 Repositório
 
 Repositório é o local aonde ficam os seus arquivos com os commits, branchs, etc. Tudo o que for referente ao git ficará nessa pasta, geralmente chamada .git que é o repositório.
-
 
 ### O QUE É BRANCH E PARA QUE SER ?
 
