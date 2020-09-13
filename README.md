@@ -1,5 +1,5 @@
 # GITHUB
-"Este repositório terá como objetivo de armazenar alguns termos do próprio github"
+"Este repositório tem como objetivo de armazenar alguns termos do próprio github"
 
 ### O QUE É FORK E PARA QUE SER ?
 
